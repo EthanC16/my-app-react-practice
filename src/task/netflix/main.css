@@ -1,0 +1,14 @@
+.netflixImages {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.netflixImages img {
+    margin: 2px;
+    width: 250px;
+    height: 350px;
+   
+}
+

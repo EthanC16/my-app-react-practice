@@ -1,0 +1,18 @@
+.airbnbImages {
+    display: inline-flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    
+}
+
+.airbnbImages img {
+    margin: 3px; /* Adjust the margin as needed */
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    
+}
+
+h1, h3, p {
+font-family: Arial, Helvetica, sans-serif;
+}
